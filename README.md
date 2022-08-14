@@ -9,7 +9,7 @@
 <br />
 
 ### Sobre mim 🚀
-:computer: Focando meus estudos em desenvolvimento backend e mobile. </br>
+:computer: Focando meus estudos em desenvolvimento backend e segurança ofensiva. </br>
 :pushpin:  Atualmente curso graduação em Sistemas de Informação. Como curiosidade, sou formada em Engenharia Civil e até atuei na área. </br>
 👨‍💻  Sempre tive facilidade com tecnologia e resolvi começar minha transição de carreira. </br>
 
